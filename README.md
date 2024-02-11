@@ -1,6 +1,6 @@
 # Transformez une maquette en site web avec HTML and CSS
 
-Lien de preview :
+[![Badge](https://img.shields.io/badge/PREVIEW-17F?style=for-the-badge)](https://grd3v.github.io/Transformez-une-maquette-en-site-web-avec-HTML-and-CSS/)
 
 ---
 
